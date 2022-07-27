@@ -2,7 +2,7 @@
 
 <h2>Opis projekta</h2>
 
-Android aplikacija za kreiranje, editovanje i prikazivanje tiketa. 
+Android aplikacija za prikaz i sortiranje nastave Računarskog fakulteta. Kreiranje, editovanje, arhiviranje i brisanje Beleški kao i njihovo sortiranje 
 
 Funkcionalnosti: 
 
