@@ -22,4 +22,6 @@ Za skidanje podataka sa API-ja fakulteta korišćen je Retrofit
 
 Za DI korišćen je Koin
 
+Login Activity je rađen pomoću Compose-a
+
 Build alat - GRADLE
